@@ -1,0 +1,44 @@
+{
+    "id": "home",
+    "type": "hero",
+    "menu": true,
+    "hidden": false,
+    "logo": "https://prevention-seven.vercel.app/images/Home/logo.svg",
+    "title": { "en": "Home", "spa": "hogar" },
+    "description": {
+        "en": "<p>Primary prevention offers outlets that benefit mental health, keep people from substance use, and incentivize healthier living.</p>",
+        "spa": "La prevención primaria ofrece opciones que benefician la salud mental de las personas, evitan que usen sustancias y las motiva a vivir de forma más sana."
+    },
+    "scrollButton": { "en": "Discover More", "spa": "Descubrir más" },
+    "customize": { "descColor": "#444444", "scrollBtnColor": "#333333" },
+    "imgs": {
+        "img1": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/images/Home/revention-phone.gif"
+        },
+        "img2": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/images/Home/prevention-gardeners.gif"
+        },
+        "img3": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/images/Home/School.gif"
+        },
+        "img4": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/images/Home/value-of-prevention-jenga.gif"
+        },
+        "img5": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/images/Home/cyclist.gif"
+        },
+        "img6": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/images/Home/left-girl.svg"
+        },
+        "img7": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/images/Home/right-girl.svg"
+        }
+    }
+}

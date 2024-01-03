@@ -1,0 +1,72 @@
+{
+    "id": "resources_id",
+    "type": "resources",
+    "menu": true,
+    "hidden": false,
+    "logo": "",
+    "customize": {
+        "bgColor": "#F9F9F9",
+        "headerColor": "#333333",
+        "descColor": "#656565",
+        "disclaimerColor": "#7b52a3"
+    },
+    "title": { "en": "Resources", "spa": "Recursos" },
+    "header": { "en": "More Resources", "spa": "Más recursos" },
+    "description": {
+        "en": "<p>Prevention is a broad topic and includes a lot of other closely related fields. To see it in practice and to learn more, visit the links below.</p>",
+        "spa": "<p>La prevención es un tema amplio e incluye muchas otras áreas que están estrechamente relacionadas. Para verlo en la práctica y aprender más, visita los enlaces a continuación.</p>"
+    },
+    "disclaimer": {
+        "en": "This is an informational website. It’s not meant to be used as a diagnostic or treatment tool.",
+        "spa": "Este es un sitio web informativo. No está destinado a ser utilizado como una herramienta de diagnóstico o tratamiento."
+    },
+    "resourcesData": [
+        {
+            "title": {
+                "en": "Community Organizations",
+                "spa": "Organizaciones comunitarias"
+            },
+            "img": "https://prevention-seven.vercel.app/assets/resources/resource-img1.svg",
+            "link": "test",
+            "bgColor": "#B5B3D9",
+            "hidden": false
+        },
+        {
+            "title": { "en": "School Health", "spa": "Salud Escolar" },
+            "img": "https://prevention-seven.vercel.app/assets/resources/resource-img2.svg",
+            "link": "/",
+            "bgColor": "#E1ECF8",
+            "hidden": false
+        },
+        {
+            "title": {
+                "en": "Youth Services",
+                "spa": "Servicios para Jóvenes"
+            },
+            "img": "https://prevention-seven.vercel.app/assets/resources/resource-img3.svg",
+            "link": "/",
+            "bgColor": "#E1ECF8",
+            "hidden": false
+        },
+        {
+            "title": {
+                "en": "Public Health Trainings",
+                "spa": "Capacitaciones de salud pública"
+            },
+            "img": "https://prevention-seven.vercel.app/assets/resources/resource-img4.svg",
+            "link": "/",
+            "bgColor": "#D4A0AC",
+            "hidden": false
+        },
+        {
+            "title": {
+                "en": "Public Health Events",
+                "spa": "Eventos de salud pública"
+            },
+            "img": "https://prevention-seven.vercel.app/assets/resources/resource-img5.svg",
+            "link": "/",
+            "bgColor": "#A2EAD0",
+            "hidden": false
+        }
+    ]
+}

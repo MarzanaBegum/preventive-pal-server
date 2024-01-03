@@ -1,0 +1,71 @@
+{
+    "id": "colorado_slider",
+    "type": "colorado-slider",
+    "menu": false,
+    "hidden": false,
+    "title": {
+        "en": "Colorado Slider",
+        "spa": "control deslizante colorado"
+    },
+    "scrollButton": {
+        "en": "Keep Scrolling",
+        "spa": "Seguir desplazándose"
+    },
+    "customize": {
+        "bgColor": "#087C3D",
+        "scrollBtnColor": "#fff",
+        "visualPrimary": "#FFB683",
+        "visualSecondary": "#D9D9D9"
+    },
+    "logo": "logo url",
+    "sliderData": [
+        {
+            "sliderId": "item_1",
+            "hidden": false,
+            "img": "https://prevention-seven.vercel.app/assets/colorado/gardeners.gif",
+            "subheader": {
+                "en": "PREVENTION IN COLORADO",
+                "spa": "LA PREVENCIÓN EN COLORADO"
+            },
+            "header": {
+                "en": "Primary Prevention Programs",
+                "spa": "Programas de prevención primaria"
+            },
+            "description": {
+                "en": "<p>These can be easy to recognize or seem obvious. These include education about substance use. However, other seemingly less connected efforts can play a big role. For example, giving young people – an especially vulnerable population to substance use  – the appropriate outlets can play a major impact. Community centers, playgrounds, libraries, after-school programs, and mentorship opportunities are examples of primary prevention as they give people alternatives to substance use.</p>",
+                "spa": "<p>Estos se pueden reconocer fácilmente o son obvios. Incluyen la educación sobre el uso de sustancias. Sin embargo, otros esfuerzos aparentemente menos relacionados, pueden desempeñar un papel importante. Por ejemplo, puede tener un gran impacto dar a la gente joven —una población especialmente vulnerable al uso de sustancias— opciones apropiadas. Los centros comunitarios, áreas de juego, bibliotecas, programas para después de la escuela y oportunidades de tutoría son ejemplos de prevención primaria pues le ofrecen a la gente alternativas al uso de sustancias.</p>"
+            },
+            "customize": {
+                "subheaderColor": "#FFF1E7",
+                "headerColor": "#FFFFFF",
+                "descColor": "#FFFFFF",
+                "imgPosition": "right",
+                "imgBackground": "#56B343"
+            }
+        },
+        {
+            "sliderId": "item_2",
+            "hidden": false,
+            "img": "https://prevention-seven.vercel.app/assets/colorado/prev-slider2.gif",
+            "subheader": {
+                "en": "PREVENTION IN COLORADO",
+                "spa": "LA PREVENCIÓN EN COLORADO"
+            },
+            "header": {
+                "en": "Better Environments, Better Outcomes",
+                "spa": "Mejores ambientes, mejores resultados"
+            },
+            "description": {
+                "en": "<p>Our environment can play a big role in whether or not we engage in substance use. Under-resourced or neglected environments can push people to use substances as a form of escape. As part of an effort to create communities that instill a sense of safety, pride, and hope, Colorado also makes an effort to build communities and create welcoming and positive environments. This can include planting trees, putting up street lights, installing bus shelters, and other small actions that improve a space.</p>",
+                "spa": "<p>El ambiente puede jugar un papel importante en el hecho de que las personas usen o no sustancias. En ambientes desatendidos o con recursos insuficientes, las personas se pueden ver empujadas a usar sustancias como una forma de escape. Como parte de la labor de crear comunidades que infunden una sensación de seguridad, orgullo y esperanza, Colorado también trabaja en crear comunidades y ambientes acogedores y positivos. Esto incluye plantar árboles, instalar alumbrado público y refugios en paradas de autobús, así como otras medidas pequeñas que mejoren el espacio.<p>"
+            },
+            "customize": {
+                "subheaderColor": "#FFF1E7",
+                "headerColor": "#FFFFFF",
+                "descColor": "#FFFFFF",
+                "imgPosition": "right",
+                "imgBackground": "#56B343"
+            }
+        }
+    ]
+}

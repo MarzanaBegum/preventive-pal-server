@@ -1,0 +1,36 @@
+{
+    "id": "custom-text-img__ampercent",
+    "type": "custom-text-img",
+    "menu": true,
+    "hidden": false,
+    "title": {
+        "en": "Primary Prevention Two",
+        "spa": "PREVENCIÓN PRIMARIA"
+    },
+
+    "description": {
+        "en": "<p>How does Primary Prevention work? It identifies risk and protective factors. Risk factors tell us about the likelihood of a negative outcome on mental health. Protective factors are things in our lives that reduce the impact of risk factors. Primary Prevention uses what's known about a community's risk factors and protective factors to create strategies and programs to decrease adverse health outcomes. It is an integrated approach. Rather than correcting potential health problems through a single program, Primary Prevention aims to improve outcomes through a series of strategies and actions.</p><p><br></p><p>In practice, anything that creates a positive environment that keeps people from harmful behaviors in the first place can be seen as Primary Prevention. A community center, a park, access to healthy food, a doctor's visit, these are all forms of prevention. It is most effective when it includes citizen input, with an effort to mobilize communities to identify and address their local risk and protective factors. Investing in these creates healthier lives for the individual, stronger communities, and a brighter future for all.</p><p><br></p><p>This approach offers personal and environmental solutions to health risks, creating better outcomes. Primary Prevention doesn't just impact health. It also saves taxpayers and state budgets by keeping people from entering costly systems like mental health and treatment facilities, the criminal justice system, hospitals, and healthcare institutions.</p>",
+        "spa": "¿Cómo funciona la Prevención Primaria? Identifica los factores de riesgo y de protección. Los factores de riesgo nos informan sobre la probabilidad de un resultado negativo en la salud mental. Los factores de protección son cosas en nuestras vidas que reducen el impacto de los factores de riesgo. La prevención primaria utiliza lo que se sabe sobre los factores de riesgo y de protección de una comunidad para crear estrategias y programas para disminuir los resultados adversos para la salud. Es un enfoque integrado. En lugar de corregir problemas de salud potenciales a través de un solo programa, la Prevención Primaria tiene como objetivo mejorar los resultados a través de una serie de estrategias y acciones. <br/><br/> En la práctica, cualquier cosa que cree un ambiente positivo que evite que las personas tengan comportamientos dañinos en primer lugar puede verse como Prevención Primaria. Un centro comunitario, un parque, acceso a alimentos saludables, una visita al médico, todas son formas de prevención. Es más eficaz cuando incluye aportes de los ciudadanos, con un esfuerzo por movilizar a las comunidades para identificar y abordar sus factores locales de riesgo y protección. Invertir en estos crea vidas más saludables para el individuo, comunidades más fuertes y un futuro más brillante para todos.<br/><br/>Este enfoque ofrece soluciones personales y ambientales a los riesgos para la salud, generando mejores resultados. La Prevención Primaria no solo impacta en la salud. También ahorra a los contribuyentes y a los presupuestos estatales al evitar que las personas ingresen a sistemas costosos como centros de tratamiento y salud mental, el sistema de justicia penal, hospitales e instituciones de atención médica."
+    },
+    "subheader": {
+        "en": "Understand an Integrated Effort",
+        "spa": "Comprender un esfuerzo integrado"
+    },
+    "header": {
+        "en": "What Is Primary Prevention?",
+        "spa": "¿Qué es la prevención primaria?"
+    },
+    "scrollButton": {
+        "en": "Keep Scrolling",
+        "spa": "Seguir desplazándose"
+    },
+    "img": "http://localhost:4000/uploads/file-1685040146728-187836161.svg",
+    "customize": {
+        "headerColor": "#664897",
+        "subheaderColor": "#331f1a",
+        "descColor": "#505050",
+        "bgColor": "#E9FBD9",
+        "scrollBtnColor": "#333333",
+        "imgPosition": "right"
+    }
+}

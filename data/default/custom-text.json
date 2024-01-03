@@ -1,0 +1,30 @@
+{
+    "id": "custom_text_214",
+    "type": "custom-text",
+    "menu": true,
+    "hidden": false,
+    "title": { "en": "TYPES OF PREVENTION", "spa": "PREVENCIÓN PRIMARIA" },
+    "description": {
+        "en": "<p>In practice, anything that creates a positive environment that keeps people from harmful behaviors in the first place can be seen as Primary Prevention. A community center, a park, access to healthy food, a doctor's visit, these are all forms of  prevention. It is most effective when it includes citizen input, with an effort to mobilize communities to identify and address their local risk and protective factors.Investing in these creates healthier lives for the individual, stronger communities, and a brighter future for all. How does Primary Prevention work? It identifies risk and protective factors. Risk factors tell us about the likelihood of a negative outcome on mental health. Protective factors are things in our lives that reduce the impact of risk factors. Primary Prevention uses what’s known about a community’s risk factors and protective factors to create strategies and programs to decrease adverse health outcomes. It is an integrated approach. Rather than correcting potential health problems through a single program, Primary Prevention aims to improve outcomes through a series of strategies and actions. This approach offers personal and environmental solutions to health risks, creating better outcomes. Primary Prevention doesn’t just impact health. It also saves taxpayers and state budgets by keeping people from entering costly systems like mental health and treatment facilities, the criminal justice system, hospitals, and healthcare institutions.</p>",
+        "spa": "En la práctica, cualquier cosa que fomente un ambiente positivo, que evite conductas negativas en las personas, puede considerarse prevención primaria. Un centro comunitario, un parque, acceso a comida saludable, una visita al médico, todos son formas de prevención. Su efectividad es mayor cuando incluye la opinión de los residentes, como un esfuerzo de movilizar a las comunidades para identificar y abordar sus factores locales de riesgo y protección. Invertir en estos factores resulta en una vida más saludable para las personas, comunidades más fuertes y un futuro más brillante para todos.¿Cómo funciona la prevención primaria? Se deben identificar los factores de riesgo y protección. Los factores de riesgo nos dicen la posibilidad de un resultado negativo en la salud mental. Los factores de protección son las cosas en nuestra vida que reducen el impacto de los factores de riesgo. La prevención primaria usa lo que se conoce de los factores de riesgo y de protección de una comunidad para crear estrategias y programas que disminuyan los resultados adversos en la salud. En lugar de corregir los posibles problemas de salud a través de un solo programa, la prevención primaria busca mejorar los resultados a través de una serie de estrategias y medidas. Este enfoque ofrece soluciones personales y ambientales a los riesgos de la salud, creado mejores resultados. La prevención primaria no solo tiene efecto en la salud, también ahorra dinero de los impuestos y de los presupuestos del estado al evitar que la gente ingrese a sistemas costosos como son las instalaciones para la salud mental y de tratamiento, el sistema jurídico, hospitales e instituciones para el cuidado de la salud."
+    },
+    "subheader": {
+        "en": "Understand an Integrated Effort",
+        "spa": "Entender que es un esfuerzo integrado"
+    },
+    "header": {
+        "en": "What is primary prevention?",
+        "spa": "¿Qué es prevención primaria?"
+    },
+    "scrollButton": {
+        "en": "Keep Scrolling",
+        "spa": "Seguir desplazándose"
+    },
+    "customize": {
+        "headerColor": "#664897",
+        "subheaderColor": "#331f1a",
+        "descColor": "#505050",
+        "bgColor": "#E9FBD9",
+        "scrollBtnColor": "#333333"
+    }
+}

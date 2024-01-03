@@ -1,0 +1,80 @@
+{
+    "id": "footer_od",
+    "type": "footer",
+    "en": {
+        "title": "Footer",
+        "address": "4300 Cherry Creek Drive South Denver, CO 80246",
+        "informationLinks": {
+            "text": "Information",
+            "links": [
+                { "text": "About CDPHE", "link": "/link-not-found" },
+                { "text": "Get in touch", "link": "" },
+                { "text": "Locations", "link": "" },
+                { "text": "Press release", "link": "" },
+                { "text": "CDPHE privacy notice", "link": "" }
+            ]
+        },
+        "resourcesLinks": {
+            "text": "Resources",
+            "links": [
+                {
+                    "text": "Find your local public health agency",
+                    "link": ""
+                },
+                {
+                    "text": "Colorado Health Information Data Set",
+                    "link": ""
+                },
+                {
+                    "text": "Environmental Public Health Tracking",
+                    "link": ""
+                },
+                {
+                    "text": "Office of Public Health Practice, Planning, and Local Partnerships (OPHP)",
+                    "link": ""
+                }
+            ]
+        }
+    },
+    "spa": {
+        "title": "Footer",
+        "address": "4300 Cherry Creek Drive Sur de Denver, CO 80246",
+        "informationLinks": {
+            "text": "Información",
+            "links": [
+                { "text": "Sobre CDPHE", "link": "/link-not-found" },
+                { "text": "Ponerse en contacto", "link": "" },
+                { "text": "Ubicaciones", "link": "" },
+                { "text": "presione soltar", "link": "" },
+                { "text": "Aviso de privacidad CDPHE", "link": "" }
+            ]
+        },
+        "resourcesLinks": {
+            "text": "Recursos",
+            "links": [
+                {
+                    "text": "Encuentre su agencia local de salud pública",
+                    "link": ""
+                },
+                {
+                    "text": "Conjunto de datos de información de salud de Colorado",
+                    "link": ""
+                },
+                {
+                    "text": "Seguimiento de Salud Pública Ambiental",
+                    "link": ""
+                },
+                {
+                    "text": "Oficina de Práctica de Salud Pública, Planificación,y Asociaciones Locales (OPHP)",
+                    "link": ""
+                }
+            ]
+        }
+    },
+    "sociallinks": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "youtube": ""
+    }
+}

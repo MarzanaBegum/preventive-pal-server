@@ -1,0 +1,33 @@
+{
+    "id": "primary_colorado",
+    "type": "colorado-hero",
+    "menu": true,
+    "hidden": false,
+    "title": {
+        "en": "Prevention in colorado",
+        "spa": "La prevención en Colorado"
+    },
+    "header": {
+        "en": "Primary Prevention in Action",
+        "spa": "La prevención primaria en acción"
+    },
+    "description": {
+        "en": "<p>Various government organizations and nonprofits offer preventative measures. Colorado makes an effort to provide comprehensive prevention throughout the state. The state, along with many partners, places emphasis on preventing mental, physical, and substance-related health concerns before they begin.</p>",
+        "spa": "<p>Una variedad de organizaciones gubernamentales y benéficas ofrecen medidas preventivas. Colorado se esfuerza en ofrecer prevención integral a través del estado. Este, junto con muchas organizaciones asociadas hacen énfasis en la prevención de problemas de salud mental, física y los relacionados con sustancias, antes de su comienzo.</p>"
+    },
+    "scrollButton": {
+        "en": "Keep Scrolling",
+        "spa": "Seguir desplazándose"
+    },
+    "subheader": {
+        "en": "PREVENTION IN COLORADO",
+        "spa": "LA PREVENCIÓN EN COLORADO"
+    },
+    "customize": {
+        "headerColor": "#664897",
+        "subheaderColor": "#333333",
+        "descColor": "#444444",
+        "bgColor": "#ECD9CA",
+        "scrollBtnColor": "#333333"
+    }
+}

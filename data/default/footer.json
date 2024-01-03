@@ -1,0 +1,113 @@
+{
+    "id": "footer_od46213",
+    "type": "footer2",
+    "menu": false,
+    "hidden": false,
+    "logo": "https://prevention-seven.vercel.app/assets/images/logo.svg",
+    "title": {
+        "en": "Footer",
+        "spa": "Footer"
+    },
+    "address": {
+        "en": "4300 Cherry creek Drive south Denver, CO 80246",
+        "spa": "4300 Cherry Creek Drive Sur de Denver, CO 80246"
+    },
+    "label": {
+        "en": "Prevention of substance user Disorders Act",
+        "spa": "Prevention of substance user Disorders Act"
+    },
+    "copyRight": {
+        "en": "© 2023 The State of Colorado | The Power of Prevention ",
+        "spa": "© 2023 The State of Colorado | The Power of Prevention "
+    },
+    "informationLinks": {
+        "text": { "en": "Information", "spa": "Information" },
+        "links": [
+            {
+                "text": { "en": "About CDPHE", "spa": "About CDPHE" },
+                "link": "/",
+                "isHidden": false
+            },
+            {
+                "text": { "en": "Get in touch", "spa": "Get in touch" },
+                "link": "/",
+                "isHidden": false
+            },
+            {
+                "text": { "en": "Locations", "spa": "Locations" },
+                "link": "/",
+                "isHidden": false
+            },
+            {
+                "text": { "en": "Press release", "spa": "Press release" },
+                "link": "/",
+                "isHidden": false
+            },
+            {
+                "text": {
+                    "en": "CDPHE privacy notice",
+                    "spa": "CDPHE privacy notice"
+                },
+                "link": "/",
+                "isHidden": false
+            }
+        ]
+    },
+    "resourcesLinks": {
+        "text": { "en": "Resources", "spa": "Resources" },
+        "links": [
+            {
+                "text": {
+                    "en": "Find your local public health agency",
+                    "spa": "Find your local public health agency"
+                },
+                "link": "/",
+                "isHidden": false
+            },
+            {
+                "text": {
+                    "en": "Colorado Health Information Data Set",
+                    "spa": "Colorado Health Information Data Set"
+                },
+                "link": "/",
+                "isHidden": false
+            },
+            {
+                "text": {
+                    "en": "Environmental Public Health Tracking",
+                    "spa": "Environmental Public Health Tracking"
+                },
+                "link": "/",
+                "isHidden": false
+            },
+            {
+                "text": {
+                    "en": "Office of Public Health Practice, Planning, and Local Partnerships (OPHP)",
+                    "spa": "Office of Public Health Practice, Planning, and Local Partnerships (OPHP)"
+                },
+                "link": "/",
+                "isHidden": false
+            }
+        ]
+    },
+
+    "socialLinks": [
+        { "name": "facebook", "link": "/", "isHidden": false },
+        { "name": "twitter", "link": "/", "isHidden": false },
+        { "name": "instagram", "link": "/", "isHidden": false },
+        { "name": "youtube", "link": "/", "isHidden": false }
+    ],
+
+    "customize": { "topBgColor": "#3333", "bottomBgColor": "#4444" },
+
+    "images": {
+        "logo": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/assets/images/phab.png"
+        },
+        "copyRightImg": {
+            "hidden": false,
+            "src": "https://prevention-seven.vercel.app/assets/colorado/COLORADO.png"
+        }
+    }
+}
